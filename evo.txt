@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cao kako nisi
+=======
+cao 8o si
+>>>>>>> 30abbc4ecbaf692dfad2735b45904c91df10b6e3
